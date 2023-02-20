@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Me chamo Emmanuela 👋
 
-<!--
-**EmmanuelaWDanielski/EmmanuelaWDanielski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como Analista de Suporte
+- 🌱 Estudando Analise de Dados
+- 📫 Contate-me pelo e-mail emmanuela.w.danielski@hotmail.com
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🖥️ Tecnologias e Ferramentas:
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<img align="center" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+           
+          
